@@ -7,8 +7,8 @@ Hello! I am a PhD student in the Complex Systems group (School of Physics) at th
 of Sydney, interested in the physical mechanisms of computation and communication in the brain,
 particularly in the context of visual processing.
 
-I approach this problem using a combination of new methodologies for time-series analysis and
-dimensionality reduction, along with dynamical systems, biophysical neural-circuit models, and,
+I approach this problem using a combination of new methodologies for analyzing
+non-stationary time series, along with dynamical systems theory, biophysical neural-circuit models, and,
 of course, the [Julia language](https://github.com/JuliaLang/julia).
 
 Below you can find some of my recent open-source projects!
