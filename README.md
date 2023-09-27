@@ -29,13 +29,13 @@ Below you can find some of my recent open-source projects!
 
 
 <a>
-  <picture>
+<picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=brendanjohnharris&show_icons=true&theme=dark&hide_rank=true&include_all_commits=true&count_private=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=brendanjohnharris&show_icons=true&theme=dark&hide_rank=true&count_private=true"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=brendanjohnharris&show_icons=true&theme=light&hide_rank=true&include_all_commits=true&count_private=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=brendanjohnharris&show_icons=true&theme=light&hide_rank=true&count_private=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img align="center" height=200/>
