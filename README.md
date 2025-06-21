@@ -1,7 +1,7 @@
 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/brendanjohnh)
-[![Twitter](https://img.shields.io/badge/Mastodon-%236364ff.svg?logo=Mastodon&logoColor=white)](https://mastodon.social/@brendanjohnharris@mathstodon.xyz)
-[![Twitter](https://img.shields.io/badge/bhar9988@uni.sydney.edu.au-%23171A21.svg?logo=Gmail&logoColor=white)](mailto:bhar9988@uni.sydney.edu.au)
+[![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://twitter.com/brendanjohnh)
+[![BlueSky](https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff)](https://bsky.app/profile/brendanjohnharris.bsky.social)
+[![Email](https://img.shields.io/badge/bhar9988@uni.sydney.edu.au-%23171A21.svg?logo=Gmail&logoColor=white)](mailto:bhar9988@uni.sydney.edu.au)
 
 Hello! I am a PhD student in the Complex Systems group (School of Physics) at the University
 of Sydney, interested in the physical mechanisms of computation and communication in the brain,
