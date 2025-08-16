@@ -8,8 +8,7 @@ of Sydney, interested in the physical mechanisms of computation and communicatio
 particularly in the context of visual processing.
 
 I approach this problem using a combination of new methodologies for analyzing
-non-stationary time series, along with dynamical systems theory, biophysical neural-circuit models, and,
-of course, the [Julia language](https://github.com/JuliaLang/julia).
+non-stationary time series, along with dynamical systems theory, biophysical neural-circuit models, and the [Julia language](https://github.com/JuliaLang/julia).
 
 Below you can find some of my recent open-source projects!
 
@@ -65,5 +64,6 @@ Below you can find some of my recent open-source projects!
 <!-- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  -->
 <!-- ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)  -->
 <!-- ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) -->
+
 
 
