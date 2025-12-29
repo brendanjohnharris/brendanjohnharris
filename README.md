@@ -21,7 +21,7 @@ Below you can find some of my recent open-source projects!
 
 [![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=brendanjohnharris&repo=Normalization.jl&theme=dark)](https://github.com/brendanjohnharris/Normalization.jl#gh-dark-mode-only)
 
-[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=brendanjohnharris&repo=Foresight.jl&theme=dark)](https://github.com/brendanjohnharris/Foresight.jl#gh-dark-mode-only) -->
+[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=brendanjohnharris&repo=Foresight.jl&theme=dark)](https://github.com/brendanjohnharris/Foresight.jl#gh-dark-mode-only) 
 
 
 ## GitHub Stats
@@ -53,6 +53,7 @@ Below you can find some of my recent open-source projects!
   <img align="center" height=200/>
 </picture>
 </a>
+-->
 
 ## Languages
 ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white) 
@@ -64,6 +65,7 @@ Below you can find some of my recent open-source projects!
 <!-- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  -->
 <!-- ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)  -->
 <!-- ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) -->
+
 
 
 
