@@ -3,7 +3,7 @@
 [![BlueSky](https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff)](https://bsky.app/profile/brendanjohnharris.bsky.social)
 [![Email](https://img.shields.io/badge/bhar9988@uni.sydney.edu.au-%23171A21.svg?logo=Gmail&logoColor=white)](mailto:bhar9988@uni.sydney.edu.au)
 
-Hello! I am a PhD student in the Complex Systems group (School of Physics) at the University
+Hello! I am a computational neuroscientist in the Complex Systems group (School of Physics) at the University
 of Sydney, interested in the physical mechanisms of computation and communication in the brain,
 particularly in the context of visual processing.
 
